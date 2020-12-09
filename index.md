@@ -12,4 +12,4 @@ Make a list
  
  I am going to add a figure here from the web:
  
- ![kodiak] https://github.com/revenuengineer/revenuengineer.github.io/blob/main/Kodiak%20-%20Alazkan%20Brown%20Bear.jpg
+ ![kodiak](https://github.com/revenuengineer/revenuengineer.github.io/blob/main/Kodiak%20-%20Alazkan%20Brown%20Bear.jpg)
